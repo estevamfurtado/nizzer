@@ -18,7 +18,7 @@ Design, ux and major features/concepts (card, lists...) are inhereted from Trell
 
 #### Structure
 
-I've been learning at fast pace at Driven's bootcamp (check out my last project - [git](https://github.com/antcarlosrbj/projeto6-buzzquiz), [page](https://antcarlosrbj.github.io/projeto6-buzzquiz/)), but watching [this tutorial](https://www.youtube.com/watch?v=ijQ6dCughW8&t=2s) I realized that I'm not familiarized with this language (classes, root, import), so I decided to incorporate that structure to build *nizzer*.
+I've been learning at fast pace at Driven's bootcamp (check out my last project - [git](https://github.com/antcarlosrbj/projeto6-buzzquiz), [page](https://antcarlosrbj.github.io/projeto6-buzzquiz/)), but watching [this tutorial](https://www.youtube.com/watch?v=ijQ6dCughW8&t=2s) I realized that I'm not familiarized with these terms (classes, root, import), so I decided to incorporate that structure to build *nizzer*.
 
 I also decided to use BEM as the class naming system for the first time in this project.
 
